@@ -1,0 +1,7 @@
+C:\Users\ferdi\source\repos\OwnParcticealgo\OwnParcticealgo\bin\Debug\OwnParcticealgo.exe.config
+C:\Users\ferdi\source\repos\OwnParcticealgo\OwnParcticealgo\bin\Debug\OwnParcticealgo.exe
+C:\Users\ferdi\source\repos\OwnParcticealgo\OwnParcticealgo\bin\Debug\OwnParcticealgo.pdb
+C:\Users\ferdi\source\repos\OwnParcticealgo\OwnParcticealgo\obj\Debug\OwnParcticealgo.csprojAssemblyReference.cache
+C:\Users\ferdi\source\repos\OwnParcticealgo\OwnParcticealgo\obj\Debug\OwnParcticealgo.csproj.CoreCompileInputs.cache
+C:\Users\ferdi\source\repos\OwnParcticealgo\OwnParcticealgo\obj\Debug\OwnParcticealgo.exe
+C:\Users\ferdi\source\repos\OwnParcticealgo\OwnParcticealgo\obj\Debug\OwnParcticealgo.pdb
