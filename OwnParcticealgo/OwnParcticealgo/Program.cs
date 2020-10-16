@@ -13,8 +13,9 @@ namespace OwnParcticealgo
         {
             int[] array = { 1,2,3,4,5};
             printOddNumber();
-            printandSum(array);
-           // returnArray();
+            printandSum(array);        
+            int  [] returnedArray = returnArray();
+            printArray(array);
 
 
 
@@ -58,19 +59,32 @@ namespace OwnParcticealgo
         }
 
         // function that returns an array with all numbers from 1 to 255
-        public returnArray()
+        public static int[]  returnArray()
         {
 
-            int array =[];
-            for (int i = 1; i < 256; i++)
+            int[] array = new int[255];
+           // int[] array_2 = {2,3,6,8};
+
+            for (int i = 0; i < array.Length; i++)
             {
-                Console.WriteLine(i);
+               array[i] = i+1;
+               // Console.WriteLine(array[i]);
                 
             }
             return array;
 
             Console.ReadLine();
         }
-        
+
+        public static void printArray(int [] array)
+        {
+            for (int i=0; i < array.Length; i++)
+            {
+                Console.WriteLine(array[i]);
+
+            }
+
+            Console.ReadLine();
+        }
     }
 }
